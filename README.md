@@ -49,8 +49,8 @@
 
 ## 💼 Projects  
 - 🌱 **Crop Recommendation System** – Built using ML to suggest crops based on soil, weather & environmental conditions.  
-- 🛡️ **Exam Malpractice Detection (Gesture Recognition)** – AI-based system to detect suspicious behaviors in offline exams.  
-- 📊 **Real-Time Equity Analysis App** – React.js + Chart.js app for financial insights with sustainability metrics.  
+- 🛡️ **Exam Malpractice Detection (Gesture Recognition)** – AI-based system to detect suspicious behaviors in offline exams.
+- 🎓 **Education Recommendation System** – AI-powered project that recommends suitable courses/learning paths for students based on their skills, interests, and career goals.  
 
 ---
 
