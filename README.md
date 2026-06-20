@@ -10,7 +10,6 @@
 
 ## 🌟 About Me  
 - 🔭 Currently working on **AI projects** like exam malpractice detection.  
-- 🌱 Learning **Flutter** and improving my **web development skills**.  
 - 🤝 Love collaborating on **innovative AI/ML projects** that solve real-world problems.  
 - 🎯 Goal: To build impactful AI solutions for education, finance, and sustainability.  
 
